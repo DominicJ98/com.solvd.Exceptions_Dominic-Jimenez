@@ -1,0 +1,6 @@
+Main.class
+Exceptions\UnauthorizedAccessException.class
+Exceptions\InvalidInputException.class
+Exceptions\OperationFailedException.class
+Exceptions\ResourceNotFoundException.class
+Exceptions\DatabaseConnectionException.class
